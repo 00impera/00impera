@@ -4,7 +4,10 @@
 
 [![OpenSea](https://img.shields.io/badge/OpenSea-SUPERRARECOINS-2081E2?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/SUPERRARECOINS)
 
-## 🎨 About
+- **Token Name**: EMERALD EYES (BNB)
+- **Network**: BNB Smart Chain (BEP-20)
+- **Contract Address**: `0x584c81F6C1015BB1D6C56cb76fC3766B80AA4cA3`
+- **Liquidity Pool**: [View on GeckoTerminal](https://www.geckoterminal.com/bsc/pools/0x56fda49ef5cd905c8508bfcf0dfdde97128d020b)
 
 I'm actively building and listing NFTs that merge traditional numismatic beauty with modern blockchain technology. The SUPERRARECOINS collection explores the intersection of:
 
