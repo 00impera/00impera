@@ -1,4 +1,4 @@
-# NFT Builder & Seller
+# NFT Builder & Seller BEP-20: EMERALD EYES (BNB)
 
 **SUPERRARECOINS Collection** - Blending rare coin aesthetics with crypto culture and experimental utility.
 
