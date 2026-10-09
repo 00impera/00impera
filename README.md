@@ -1,84 +1,115 @@
-# JOIN THE REWECOIN NETWORK
+<div align="center">
 
-Building a decentralized blockchain ecosystem powered by miners, node operators and infrastructure partners.
+# 🟢 REWECOIN
 
-We are looking for:
+### ⚡ DECENTRALIZED BLOCKCHAIN ECOSYSTEM ⚡
 
-✅ Miners
-✅ Node Operators
-✅ Infrastructure Sponsors
-✅ Linux Server Administrators
-✅ Blockchain Developers
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Mine ReweCoin
+🟢 MAINNET LIVE
 
-Connect your miner:
+🌐 WALLET NETWORK
 
-Pool:
-pool.rewecoin.com:3092
+⛏️ MINING INFRASTRUCTURE
 
-Website:
-https://rewecoin.com
+🔗 BLOCKCHAIN EXPLORER
 
-Wallet:
-https://wallet.rewecoin.com
+🛡️ WORM SHIELD SECURITY
 
-Explorer:
-https://explorer.rewecoin.com
+🌱 GLOBAL SEED NODES
 
-## Run a Node
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Requirements:
+</div>
 
-- Ubuntu 24/26
-- 2 GB RAM minimum
-- Public IP
-- Port 28233 open
+# 🚀 REWECOIN MISSION
 
-Help decentralize the network by operating a ReweCoin node.
+Building a complete blockchain ecosystem powered by:
 
-## Infrastructure Sponsors Wanted
+⚡ Miners  
+⚡ Node Operators  
+⚡ Infrastructure Sponsors  
+⚡ Developers  
+⚡ Web3 Builders  
 
-We are expanding:
+---
 
-- Seed Nodes
-- Mainnet Nodes
-- Explorer Infrastructure
-- Mining Pool Infrastructure
+# 🌍 ECOSYSTEM
 
-Sponsors supporting node hosting and infrastructure are welcome.
+✅ ReweCoin Mainnet
 
-Contact:
-founder@rewecoin.com 
+✅ Wallet Platform
 
+✅ Blockchain Explorer
 
-█ REWECOIN MAINNET ONLINE
-█ WALLET ONLINE
-█ MINING POOL ACTIVE
-█ EXPLORER ACTIVE
-█ WORM SHIELD ACTIVE
-█ SEED NODES ONLINE
+✅ Mining Pool
 
+✅ Token Platform
 
+✅ Worm Shield
 
-🟢 NETWORK STATUS
+✅ Seed Node Network
 
-MAINNET        ● ONLINE
-WALLET         ● ONLINE
-MINING POOL    ● ACTIVE
-EXPLORER       ● ACTIVE
-WORM SHIELD    ● ACTIVE
-SEED NODES     ● ONLINE
+✅ Security Infrastructure
 
-Current Mission:
-Expanding the ReweCoin Infrastructure
+---
 
-Looking For:
-✓ Miners
-✓ Node Operators
-✓ Infrastructure Sponsors
-✓ Web3 Builders
-✓ Blockchain Developers
+# 📊 NETWORK STATUS
 
+🟢 Blockchain: ONLINE
 
+🟢 Wallet: ACTIVE
 
+🟢 Explorer: ACTIVE
+
+🟢 Mining Pool: ACTIVE
+
+🟢 Seed Nodes: ONLINE
+
+🟢 Security Layer: ACTIVE
+
+---
+
+# 🤝 WE ARE LOOKING FOR
+
+⚡ GPU Miners
+
+⚡ CPU Miners
+
+⚡ Node Operators
+
+⚡ VPS Sponsors
+
+⚡ Infrastructure Partners
+
+⚡ Blockchain Developers
+
+⚡ Web3 Founders
+
+---
+
+# 🌐 OFFICIAL LINKS
+
+🔗 https://rewecoin.com
+
+💼 https://wallet.rewecoin.com
+
+📈 https://explorer.rewecoin.com
+
+⛏️ https://pool.rewecoin.com
+
+🛡️ Worm Shield
+
+---
+
+# ⚡ FOUNDER
+
+Founder of the ReweCoin Ecosystem
+
+Building blockchain infrastructure, decentralized networks, wallet services, mining systems and security platforms.
+
+"Building the future through decentralization."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟢 REWECOIN NETWORK • GLOBAL • SECURE • DECENTRALIZED 🟢
