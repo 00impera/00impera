@@ -39,6 +39,16 @@ An independent Equihash blockchain with its own wallet, explorer and mining pool
 
 ---
 
+## Create your wallet and mining address
+
+1. Open https://wallet.rewecoin.com and create (or open) your wallet.
+2. Back up your recovery phrase offline. Anyone who has it can take your coins, and if you lose it you lose access.
+3. Go to https://wallet.rewecoin.com/mining.html and click **Create mining address**.
+4. Copy the new address from the "Mining addresses" table. Use it as your username in the miner.
+5. Track found blocks, pending rewards and confirmed rewards on the same Mining page.
+
+---
+
 <div align="center">
 
 ## HOW TO MINE
