@@ -48,9 +48,8 @@
 | Mining pool | 🟢 Active |
 | Explorer | 🟢 Online |
 | Wallet | 🟢 Online |
-| Seed nodes | 🟡 Coming soon |
-| Worm Shield | 🟡 Coming soon |
-
+| Seed nodes | 🟢 Live |
+| Worm Shield | 🟢 Live |
 ---
 
 ## 🚀 Quick start
