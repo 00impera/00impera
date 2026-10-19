@@ -17,10 +17,7 @@
 
 <br>
 
-[🌐 Website](https://rewecoin.com) &nbsp;•&nbsp;
-[👛 Wallet](https://wallet.rewecoin.com) &nbsp;•&nbsp;
-[🔎 Explorer](https://explorer.rewecoin.com) &nbsp;•&nbsp;
-[⛏️ Mining Pool](https://pool.rewecoin.com)
+<a href="https://rewecoin.com/"><img src="btn-website.svg" width="170" alt="Website"></a> <a href="https://wallet.rewecoin.com/"><img src="btn-wallet.svg" width="170" alt="Wallet"></a> <a href="https://explorer.rewecoin.com/"><img src="btn-explorer.svg" width="170" alt="Explorer"></a> <a href="https://pool.rewecoin.com/"><img src="btn-pool.svg" width="170" alt="Mining Pool"></a>
 
 </div>
 
