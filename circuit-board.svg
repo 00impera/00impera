@@ -143,5 +143,4 @@
 <text fill="#9fd8ff"><textPath href="#hp7" startOffset="-500" dy="-8"><animate attributeName="startOffset" from="-500" to="432" dur="19.2s" begin="-15.5s" repeatCount="indefinite"/>000000c01c3f252edc87ff4adfa36d0840164709ab7f3f386d0cd566647b5aa6</textPath></text>
 <text fill="#5dff9a"><textPath href="#hp8" startOffset="-500" dy="-8"><animate attributeName="startOffset" from="-500" to="492" dur="20.5s" begin="-1.6s" repeatCount="indefinite"/>0000066347428c3dd46c036bb3a62f301f46536559314e23acedbd6b0165debb</textPath></text>
 <text fill="#ffe08a"><textPath href="#hp9" startOffset="-500" dy="-8"><animate attributeName="startOffset" from="-500" to="492" dur="20.5s" begin="-12.2s" repeatCount="indefinite"/>00000c6530a2c6a8835c4abd5c652a9f30b1789a6c52cf63c03378ec16c03888</textPath></text>
-</g>
 </svg>
