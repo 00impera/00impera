@@ -26,6 +26,8 @@
 
 <br>
 
+<img src="circuit-board.svg" width="100%" alt="">
+
 > [!NOTE]
 > **Early-stage network:** hashrate is currently very low (around 1 Sol/s), so new miners have a real impact.
 
@@ -182,3 +184,5 @@ Building a secure and decentralized blockchain ecosystem.
 [![Pool](https://img.shields.io/badge/START_MINING-pool.rewecoin.com-39ff14?style=for-the-badge&labelColor=020a18)](https://pool.rewecoin.com)
 
 </div>
+
+<img src="circuit-board.svg" width="100%" alt="">
