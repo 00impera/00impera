@@ -26,6 +26,7 @@
       <feGaussianBlur stdDeviation="5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <path id="c0" d="M986 70H890L868 92H780L758 114H700"/><path id="c1" d="M986 100H930L912 118"/><path id="c2" d="M14 210H110L132 188H220L242 166H300"/><path id="c3" d="M14 180H70L90 160"/><path id="c4" d="M986 200H900L880 220H800"/><path id="c5" d="M14 70H100L120 90H190"/>
     <clipPath id="letters">
       <text class="t" x="500" y="138" text-anchor="middle" font-size="86">REWECOIN</text>
     </clipPath>
@@ -38,6 +39,7 @@
       @keyframes sw{from{transform:translateX(-260px)}to{transform:translateX(1000px)}}
       .run{stroke-dasharray:60 940;animation:run 4s linear infinite}
       @keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}
+      .p{font-family:Consolas,'Courier New',monospace;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:central}
       .led{animation:blink 2.6s infinite}
       @keyframes blink{0%,86%,100%{opacity:1}92%{opacity:.2}}
       @media (prefers-reduced-motion:reduce){.d,.sw,.run,.led{animation:none}}
@@ -63,6 +65,23 @@
     <circle cx="300" cy="166" r="3.5"/><circle cx="90" cy="160" r="3"/>
     <circle cx="800" cy="220" r="3"/><circle cx="190" cy="90" r="3"/>
   </g>
+
+  <text class="p" fill="#ff3b3b">0<animateMotion dur="7.5s" begin="0s" repeatCount="indefinite"><mpath href="#c0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="7.5s" begin="0s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ffd700">1<animateMotion dur="7.5s" begin="-2.5s" repeatCount="indefinite"><mpath href="#c0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="7.5s" begin="-2.5s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#00e5ff">0<animateMotion dur="7.5s" begin="-5s" repeatCount="indefinite"><mpath href="#c0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="7.5s" begin="-5s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#39ff14">1<animateMotion dur="4.5s" begin="0s" repeatCount="indefinite"><mpath href="#c1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="4.5s" begin="0s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ff6ec7">0<animateMotion dur="4.5s" begin="-2.2s" repeatCount="indefinite"><mpath href="#c1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="4.5s" begin="-2.2s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ff9a1f">1<animateMotion dur="7s" begin="0s" repeatCount="indefinite"><mpath href="#c2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ff3b3b">0<animateMotion dur="7s" begin="-2.3s" repeatCount="indefinite"><mpath href="#c2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="7s" begin="-2.3s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ffd700">1<animateMotion dur="7s" begin="-4.7s" repeatCount="indefinite"><mpath href="#c2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="7s" begin="-4.7s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#00e5ff">0<animateMotion dur="4.5s" begin="0s" repeatCount="indefinite"><mpath href="#c3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="4.5s" begin="0s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#39ff14">1<animateMotion dur="4.5s" begin="-2.2s" repeatCount="indefinite"><mpath href="#c3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="4.5s" begin="-2.2s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ff6ec7">0<animateMotion dur="6s" begin="0s" repeatCount="indefinite"><mpath href="#c4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ff9a1f">1<animateMotion dur="6s" begin="-2s" repeatCount="indefinite"><mpath href="#c4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="6s" begin="-2s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ff3b3b">0<animateMotion dur="6s" begin="-4s" repeatCount="indefinite"><mpath href="#c4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="6s" begin="-4s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#ffd700">1<animateMotion dur="5.5s" begin="0s" repeatCount="indefinite"><mpath href="#c5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="5.5s" begin="0s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#00e5ff">0<animateMotion dur="5.5s" begin="-1.8s" repeatCount="indefinite"><mpath href="#c5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="5.5s" begin="-1.8s" repeatCount="indefinite"/></text>
+  <text class="p" fill="#39ff14">1<animateMotion dur="5.5s" begin="-3.7s" repeatCount="indefinite"><mpath href="#c5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.88;1" dur="5.5s" begin="-3.7s" repeatCount="indefinite"/></text>
 
   <text class="t" x="500" y="138" text-anchor="middle" font-size="86" fill="#0a0000" stroke="#e10600" stroke-width="2" filter="url(#glow)">REWECOIN</text>
   <g clip-path="url(#letters)">
