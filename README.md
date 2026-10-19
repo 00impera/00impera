@@ -30,17 +30,6 @@
 
 <img src="divider.svg" width="100%" alt="">
 
-## 🔗 Official links
-
-| | |
-|:---|:---|
-| 🌐 **Website** | https://rewecoin.com |
-| 👛 **Wallet** | https://wallet.rewecoin.com |
-| 🔎 **Explorer** | https://explorer.rewecoin.com |
-| ⛏️ **Mining pool** | https://pool.rewecoin.com |
-
-<img src="divider.svg" width="100%" alt="">
-
 ## 📡 Network status
 
 | Component | Status |
