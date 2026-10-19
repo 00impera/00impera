@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/us3mgj.jpg" alt="ReweCoin logo" width="160">
 
-<br>
 
 <img src="banner.svg" alt="ReweCoin" width="100%">
 
