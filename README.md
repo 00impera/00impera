@@ -48,12 +48,12 @@
 
 | Component | Status |
 |:---|:---:|
-| Mainnet | 🟢 Live |
-| Mining pool | 🟢 Active |
-| Explorer | 🟢 Online |
-| Wallet | 🟢 Online |
-| Seed nodes | 🟢 Live |
-| Worm Shield | 🟢 Live |
+| Mainnet | <img src="led.svg" width="16" height="16" alt="live"> Live |
+| Mining pool | <img src="led.svg" width="16" height="16" alt="live"> Active |
+| Explorer | <img src="led.svg" width="16" height="16" alt="live"> Online |
+| Wallet | <img src="led.svg" width="16" height="16" alt="live"> Online |
+| Seed nodes | <img src="led.svg" width="16" height="16" alt="live"> Live |
+| Worm Shield | <img src="led.svg" width="16" height="16" alt="live"> Live |
 
 <img src="divider.svg" width="100%" alt="">
 

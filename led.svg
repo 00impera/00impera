@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+<style>
+.g{transform-box:fill-box;transform-origin:center;animation:p 1.6s ease-in-out infinite}
+.c{animation:b 1.6s ease-in-out infinite}
+@keyframes p{0%,100%{transform:scale(.55);opacity:.85}50%{transform:scale(1.25);opacity:.15}}
+@keyframes b{0%,100%{opacity:1}50%{opacity:.55}}
+@media (prefers-reduced-motion:reduce){.g,.c{animation:none}}
+</style>
+<defs><radialGradient id="r"><stop offset="0" stop-color="#39FF14" stop-opacity=".9"/><stop offset="1" stop-color="#39FF14" stop-opacity="0"/></radialGradient></defs>
+<circle class="g" cx="12" cy="12" r="11" fill="url(#r)"/>
+<circle class="c" cx="12" cy="12" r="5" fill="#39FF14"/>
+<circle cx="10.5" cy="10.5" r="1.6" fill="#fff" opacity=".6"/>
+</svg>
