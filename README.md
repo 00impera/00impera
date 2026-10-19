@@ -31,8 +31,8 @@
 > [!NOTE]
 > **Early-stage network:** hashrate is currently very low (around 1 Sol/s), so new miners have a real impact.
 
----
 <img src="divider.svg" width="100%" alt="">
+
 ## 🔗 Official links
 
 | | |
@@ -42,8 +42,8 @@
 | 🔎 **Explorer** | https://explorer.rewecoin.com |
 | ⛏️ **Mining pool** | https://pool.rewecoin.com |
 
----
 <img src="divider.svg" width="100%" alt="">
+
 ## 📡 Network status
 
 | Component | Status |
@@ -54,7 +54,8 @@
 | Wallet | 🟢 Online |
 | Seed nodes | 🟢 Live |
 | Worm Shield | 🟢 Live |
----
+
+<img src="divider.svg" width="100%" alt="">
 
 ## 🚀 Quick start
 
@@ -75,7 +76,9 @@ flowchart LR
     style F fill:#031327,stroke:#ffd700,color:#e6f3ff
     style G fill:#031327,stroke:#39ff14,color:#e6f3ff
 ```
+
 <img src="divider.svg" width="100%" alt="">
+
 ### 1️⃣ Create your wallet and mining address
 
 1. Open https://wallet.rewecoin.com and create (or open) your wallet.
@@ -84,8 +87,8 @@ flowchart LR
 4. Copy the new address from the "Mining addresses" table. Use it as your username in the miner.
 5. Track found blocks, pending rewards and confirmed rewards on the same Mining page.
 
----
 <img src="divider.svg" width="100%" alt="">
+
 <div align="center">
 
 ## ⛏️ HOW TO MINE
@@ -139,8 +142,8 @@ Replace `YOUR_RWC_ADDRESS` with the mining address you created in the wallet.
 
 </details>
 
----
 <img src="divider.svg" width="100%" alt="">
+
 ## 🏊 Pool details
 
 <div align="center">
@@ -155,8 +158,8 @@ Replace `YOUR_RWC_ADDRESS` with the mining address you created in the wallet.
 > [!IMPORTANT]
 > Rewards from a block become payable only after it has **100 confirmations**, so there is a delay between finding a block and receiving the payout.
 
----
 <img src="divider.svg" width="100%" alt="">
+
 ## 🤝 Join the network
 
 We are looking for:
@@ -167,8 +170,8 @@ We are looking for:
 - ☁️ VPS partners
 - 🧑‍💻 Web3 developers
 
----
 <img src="divider.svg" width="100%" alt="">
+
 ## 🎯 Mission
 
 Building a secure and decentralized blockchain ecosystem.
